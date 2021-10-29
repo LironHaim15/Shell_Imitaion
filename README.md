@@ -7,7 +7,7 @@ A small program I had to create as part of Operating Systems course assignment. 
 ### `jobs`
 * Display a list of the commands that are currently running in the background, in an ascending chronological order.
 ### `history`
-* Display a list of all the commands entered in during the run so far (both background and non-background runs) in an ascending chronological order. Also, aside each command, print "DONE" or "RUNNING" to indicite weather the process it is still running on is alive or not.
+* Display a list of all the commands entered in during the run so far (both background and non-background runs) in an ascending chronological order. Also, aside each command, print "DONE" or "RUNNING" to indicite whether the process it is still running on is alive or not.
 * The `history` command itself is included in the list as a "RUNNING" and latest command.
 ### `cd`
 * Change the working directory of the proccess.
